@@ -1,13 +1,15 @@
-Задание 1
-terraform 
+# Задание 1
+Terraform 
 ![Terraform](/dz01/1/01tf.png)
-bash (https://user-images.githubusercontent.com/93119897/138830422-6cc64e51-133f-49de-91b5-d45f81d6685e.png)
-markdown (https://user-images.githubusercontent.com/93119897/138830595-ce7cda22-655f-420a-9ca3-c3bc74b58677.png)
-yaml (https://user-images.githubusercontent.com/93119897/138830688-cb18ab0e-057b-41b8-a112-1383b7f94b60.png)
-jsonnet (https://user-images.githubusercontent.com/93119897/138830809-9bfa6f8d-8ce6-4f21-bd32-886843b84291.png)
-
-Задание №2 - Описание жизненного цикла задачи (разработки нового функционала)
-
+Bash
+![Bash](/dz01/1/02sh.png)https://github.com/SSergeyA/netology/edit/main/dz01/readme.md
+Markdown
+![Markdown](/dz01/1/03md.png)
+Yaml
+![Yaml](/dz01/1/04yaml.png)
+Jsonnet
+![Jsonnet](/dz01/1/05jsonnet.png)
+# Задание №2 - Описание жизненного цикла задачи (разработки нового функционала)
 1. Сбор требований . Менеджер узнает у клиента необходимый функционал
 2. Формулирование и согласование требований к функционалу. Менеджер доводит требования по функционалу разработчикам, тестировщикам и DevOps инженерам. Разрабатываются структура, этапы и определяется время разработки.
 3.  Создание инфраструктуры. Команда под руководством  DevOps инженера создает среду разработки, тестирования , продакшн, настраивает системы отслеживания версий и мониторинга, продумывается система безопасности.
