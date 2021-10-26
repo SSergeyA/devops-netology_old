@@ -1,0 +1,1 @@
+file:///home/s/%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB/01tf.png![image](https://user-images.githubusercontent.com/93119897/138830192-78c6ea1e-c622-49a4-add7-57b60ec83d2e.png)
