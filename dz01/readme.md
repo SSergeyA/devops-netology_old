@@ -2,7 +2,7 @@
 Terraform 
 ![Terraform](/dz01/1/01tf.png)
 Bash
-![Bash](/dz01/1/02sh.png)https://github.com/SSergeyA/netology/edit/main/dz01/readme.md
+![Bash](/dz01/1/02sh.png)
 Markdown
 ![Markdown](/dz01/1/03md.png)
 Yaml
