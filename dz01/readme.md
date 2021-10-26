@@ -1,6 +1,6 @@
 Задание 1
 terraform 
-![Terraform](/dz01/1/01tа.png)
+![Terraform](/dz01/1/01tf.png)
 bash (https://user-images.githubusercontent.com/93119897/138830422-6cc64e51-133f-49de-91b5-d45f81d6685e.png)
 markdown (https://user-images.githubusercontent.com/93119897/138830595-ce7cda22-655f-420a-9ca3-c3bc74b58677.png)
 yaml (https://user-images.githubusercontent.com/93119897/138830688-cb18ab0e-057b-41b8-a112-1383b7f94b60.png)
