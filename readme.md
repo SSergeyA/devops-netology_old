@@ -2,6 +2,8 @@
 # change
 # change2
 
+change fix
+
 # Local .terraform directories 
 **/.terraform/* игнорировать все файлы в скрытой папке терраформ расположенной в любом месте репозитория
 
