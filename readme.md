@@ -1,5 +1,5 @@
 # Sergey Sokolov
-# ДЗ 4
+# ДЗ Инструменты git
 1. хеш commit aefead2207ef7e2aa5dc81a34aedf0cad4c32545 , Update CHANGELOG.md
 
 2. tag: v0.12.23
